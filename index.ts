@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Laila-Abu-Safiya 
-typescript-exercises
-/
-typescript-exercises
-Public
-Code
-Issues
-Pull requests
-10
-Actions
-Projects
-Wiki
-Security
-Insights
-typescript-exercises/src/exercises/2/index.ts /
-
-[aviv polak] url Validity
-…
-Latest commit 17b9ea1 on Dec 6, 2021
- History
- 1 contributor
-65 lines (52 sloc)  1.29 KB
    
 /*
 Intro:
